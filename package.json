@@ -50,6 +50,7 @@
     "babel-polyfill": "^6.23.0"
   },
   "scripts": {
+    "start": "node index.js",
     "build": "gulp",
     "serve": "gulp serve",
     "serve:dist": "gulp serve:dist",
